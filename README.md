@@ -1,2 +1,1 @@
-# Stop_Watch
-Stopwatch with Dual Mode (Increment and Countdown) Using ATmega32 and a six digit Seven-Segment Display.
+This Embedded system implements periphiral programming such as interrupts, timers and I/O ports. It also applies Round Robin method to update the six digit seven-segment display seamlessly.
